@@ -120,15 +120,9 @@ For spam or unauthorized pull requests, use this template:
 > - Rogue contribution / SPAM
 ```
 
-The output should be:
+Example:
 
-> [!WARNING]
->
-> ## BLOCKED: @username
->
-> This user has been blocked:
->
-> - Rogue contribution / SPAM
+> https://github.com/01-edu/public/issues/2759
 
 ## ❓ Issues
 
@@ -182,17 +176,6 @@ For issues lacking sufficient information or responsiveness, use this template:
 > - Any additional details
 ```
 
-The output should be:
+Example:
 
-> [!IMPORTANT]
->
-> ## @username: This issue has been closed due to lack of context/clarity/substance/responsiveness!
->
-> If you find there is something wrong with a subject/exercise/feature, please feel free to open a new issue with an appropriate title, context and further details that would help our team to address the issue effectively.
->
-> We require the following information:
->
-> - The issue/error you are encountering from the platform
-> - The solution you're trying to submit / steps to reproduce the issue/error
-> - The screenshot of the issue/error
-> - Any additional details
+> https://github.com/01-edu/public/pull/2722
