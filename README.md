@@ -122,7 +122,8 @@ For spam or unauthorized pull requests, use this template:
 
 Example:
 
-> https://github.com/01-edu/public/issues/2759
+> https://github.com/01-edu/public/pull/2722
+
 
 ## ❓ Issues
 
@@ -178,4 +179,4 @@ For issues lacking sufficient information or responsiveness, use this template:
 
 Example:
 
-> https://github.com/01-edu/public/pull/2722
+> https://github.com/01-edu/public/issues/2759
